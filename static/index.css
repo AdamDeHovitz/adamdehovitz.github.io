@@ -1,0 +1,8 @@
+body {
+    background-color: #CFD8DC;
+}
+
+.cards > * {
+	margin-top: 8px;
+	background-color: blue;
+}
