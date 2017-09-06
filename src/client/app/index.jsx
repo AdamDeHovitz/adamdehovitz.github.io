@@ -7,6 +7,7 @@ import {red100} from 'material-ui/styles/colors';
 import React from 'react';
 import {render} from 'react-dom';
 import {Toolbar, ToolbarGroup, ToolbarSeparator, ToolbarTitle} from 'material-ui/Toolbar';
+import FlatButton from 'material-ui/FlatButton';
 
 import Education from './education.jsx'
 
@@ -28,6 +29,7 @@ class App extends React.Component {
           <AppBar
             title={'Adam DeHovitz'}
             onLeftIconButtonTouchTap={() => this.setState({open: true})}
+            iconElementRight={<FlatButton label="Open Resume" href="https://adamdehovitz.github.io/static/AdamDeHovitzResume.pdf"/>}
           />
           {/*
           <Drawer open={this.state.open}>
