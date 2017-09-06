@@ -45,8 +45,8 @@ class App extends React.Component {
 	          </MenuItem>
         </Drawer>*/}
         <div className="cards">
-        <Toolbar style={{backgroundColor:red100}}><ToolbarTitle text="This Website is still under development"/></Toolbar>
-	        <Card>
+        <Toolbar style={{backgroundColor:red100}}><ToolbarTitle text="this website is still under development"/></Toolbar>
+	        <Card initiallyExpanded>
 			    <CardHeader
 				    title="About Me"
 				    subtitle="Biography"
@@ -56,11 +56,11 @@ class App extends React.Component {
 			    />
 			    <CardText expandable={true}>
 			      <p>
-			      	I was raised in Brooklyn, New York. From there I learned to admire the way millions 
-			      	of smaller pieces worked togther to produce something the scale of New York City.
+			      	I was raised in Brooklyn. Growing up I admired the way millions 
+			      	of smaller parts worked togther to make a city the scale of New York thrive.
 			      </p>
 			      <p>
-			      	I first discovered computer science in my sophmore year at Stuyvesant High School. 
+			      	My first formal experience with computer science was in my sophmore year at Stuyvesant High School. 
 			      	I quickly grew invested in it, and particularly enjoyed leveraging software to
 			      	build tools related to other fields I was passionate about, such as a historical quote
 			      	generator or a diplomacy simulator set in the Napoleonic era.
@@ -70,7 +70,8 @@ class App extends React.Component {
 			      	at Brown and summer jobs at a diverse array of places. I'm passionate about building 
 			      	software to solve real world problems, such as my last summer 
 			      	at <a href="https://www.sidewalklabs.com/">Sidewalk Labs</a> where I worked on a tool
-			      	to help cities map their streets.
+			      	to help cities map their streets. Currently, I'm looking for similarly meaningful internship
+			      	at a tech company next summer.
 			      </p>
 			    </CardText>
 			  </Card>
