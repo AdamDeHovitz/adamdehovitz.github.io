@@ -2,6 +2,11 @@ body {
     background-color: #CFD8DC;
 }
 
+a {
+  color: #03A9F4;
+  text-decoration: none;
+}
+
 .cards > * {
 	margin-top: 8px;
 }

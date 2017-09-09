@@ -10,6 +10,7 @@ import {Toolbar, ToolbarGroup, ToolbarSeparator, ToolbarTitle} from 'material-ui
 import FlatButton from 'material-ui/FlatButton';
 
 import Education from './education.jsx'
+import Experience from './experience.jsx'
 
 // Needed for onTouchTap
 // http://stackoverflow.com/a/34015469/988941
@@ -78,6 +79,7 @@ class App extends React.Component {
 			    </CardText>
 			  </Card>
 			  <Education/>
+			  <Experience/>
 		  </div>
         </div>
       </MuiThemeProvider>)
