@@ -11,6 +11,7 @@ import FlatButton from 'material-ui/FlatButton';
 
 import Education from './education.jsx'
 import Experience from './experience.jsx'
+import Extracurricular from './extracurricular.jsx'
 
 // Needed for onTouchTap
 // http://stackoverflow.com/a/34015469/988941
@@ -80,6 +81,7 @@ class App extends React.Component {
 			  </Card>
 			  <Education/>
 			  <Experience/>
+			  <Extracurricular/>
 		  </div>
         </div>
       </MuiThemeProvider>)

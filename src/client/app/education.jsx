@@ -42,7 +42,7 @@ class Education extends React.Component {
 		    </TableHeader>
 		    <TableBody displayRowCheckbox={false}>
 		      <TableRow>
-		        <TableRowColumn>1</TableRowColumn>
+		        <TableRowColumn style={{width: "20px"}}>1</TableRowColumn>
 		        <TableRowColumn>CS0190: Accelerated Introduction to Computer Science</TableRowColumn>
 		        <TableRowColumn></TableRowColumn>
 				<TableRowColumn></TableRowColumn>
