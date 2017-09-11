@@ -75,7 +75,7 @@ class App extends React.Component {
 			      	at Brown and summer jobs at a diverse array of places. I'm passionate about building 
 			      	software to solve real world problems, such as my last summer 
 			      	at <a href="https://www.sidewalklabs.com/">Sidewalk Labs</a> where I worked on a tool
-			      	to help cities map their streets. Currently, I'm looking for similarly meaningful internship
+			      	to help cities map their streets. Currently, I'm looking for a similarly meaningful internship
 			      	at a tech company next summer.
 			      </p>
 			    </CardText>
