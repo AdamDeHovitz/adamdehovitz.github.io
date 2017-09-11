@@ -42,13 +42,13 @@ class Extracurricular extends React.Component {
 	      	 As Director of Crisis I oversee the Crisis department which consistents of 4 groupings of 11 coordinated committees, each with their own team
 	      	 of staff the enables us to run fun and engaging Model UN committees.
 	      </p>
-	      <p> I've also held multiple jobs at BUCS, our smaller college conference. There I did similar jobs including Director of Technology and Undersecrtary General (USG).
+	      <p> I've also done a lot of work for BUCS, our smaller college conference. There I did similar jobs including Director of Technology and Undersecrtary General (USG).
 	      as USG, I oversaw the development and running of 6 different committees.</p>
 	      <Divider/>
 	      <h3> And More </h3>
 	      <p>
 	      	I've also found other ways to spend my time at Brown including enrolling in Brown's <a href="http://brownentrepreneurship.com/dojo/">Innovation Dojo</a> and being
-	      	active membor of the Beta Rho Pi fraternity.
+	      	an active member of the Beta Rho Pi fraternity.
 	      </p>
 	    </CardText>
 	  </Card>)

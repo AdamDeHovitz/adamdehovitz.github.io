@@ -45,6 +45,7 @@ class Experience extends React.Component {
   			<p> Starting May of 2016 until March of 2017 I worked for <a href="https://www.altr.com/">ALTR</a>, an information security start up. </p>
   			<p> I developed a Mac OS service to keep track of an ALTR application's state, iterated on a file management tool, and explored possible uses
   			for an Apache Spark based anomaly detection tool. </p>
+  			<p> I worked full time over breaks and part time during the school year. </p>
   			</div>
   		)
   	}
