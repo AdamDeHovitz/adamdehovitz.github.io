@@ -57,7 +57,7 @@ class Experience extends React.Component {
   			urban innovation arm <a href="https://www.sidewalklabs.com/">Sidewalk Labs</a>. </p>
   			<p>I implemented a React web application for quickly transcribing image data and storing the results in a postgres database. 
   			I deployed the application to <a href="https://www.mturk.com/mturk/welcome"> Amazon Mechanical Turk</a> and iterated on the design
-  			to improve the reliablity of worker transcriptions.</p>
+  			to improve the reliability of worker transcriptions.</p>
   			</div>
   		)
   	}

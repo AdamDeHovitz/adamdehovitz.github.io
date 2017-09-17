@@ -25,7 +25,7 @@ class Extracurricular extends React.Component {
 	      	was mentoring two student groups as they developed their final projects.
 	      </p>
 	      <p>
-	      	This semester I am TAing for <a href="https://cs.brown.edu/courses/cs173/2017/">Design and Implementation of Programming Languagues</a>.
+	      	This semester I am TAing for <a href="https://cs.brown.edu/courses/cs173/2017/">Design and Implementation of Programming Languages</a>.
 	      	My responsibilities are similar and include writing course documents, holding office hours, and grading. I enjoy the opportunity
 	      	to teach material that I'm passionate about.
 	      </p>
